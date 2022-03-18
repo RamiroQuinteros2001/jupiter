@@ -1,0 +1,15 @@
+D:\sistema operativo\prueba banco\dotnet-consola\bin\Debug\net6.0\dotnet-consola.exe
+D:\sistema operativo\prueba banco\dotnet-consola\bin\Debug\net6.0\dotnet-consola.deps.json
+D:\sistema operativo\prueba banco\dotnet-consola\bin\Debug\net6.0\dotnet-consola.runtimeconfig.json
+D:\sistema operativo\prueba banco\dotnet-consola\bin\Debug\net6.0\dotnet-consola.dll
+D:\sistema operativo\prueba banco\dotnet-consola\bin\Debug\net6.0\dotnet-consola.pdb
+D:\sistema operativo\prueba banco\dotnet-consola\obj\Debug\net6.0\dotnet-consola.csproj.AssemblyReference.cache
+D:\sistema operativo\prueba banco\dotnet-consola\obj\Debug\net6.0\dotnet-consola.GeneratedMSBuildEditorConfig.editorconfig
+D:\sistema operativo\prueba banco\dotnet-consola\obj\Debug\net6.0\dotnet-consola.AssemblyInfoInputs.cache
+D:\sistema operativo\prueba banco\dotnet-consola\obj\Debug\net6.0\dotnet-consola.AssemblyInfo.cs
+D:\sistema operativo\prueba banco\dotnet-consola\obj\Debug\net6.0\dotnet-consola.csproj.CoreCompileInputs.cache
+D:\sistema operativo\prueba banco\dotnet-consola\obj\Debug\net6.0\dotnet-consola.dll
+D:\sistema operativo\prueba banco\dotnet-consola\obj\Debug\net6.0\refint\dotnet-consola.dll
+D:\sistema operativo\prueba banco\dotnet-consola\obj\Debug\net6.0\dotnet-consola.pdb
+D:\sistema operativo\prueba banco\dotnet-consola\obj\Debug\net6.0\dotnet-consola.genruntimeconfig.cache
+D:\sistema operativo\prueba banco\dotnet-consola\obj\Debug\net6.0\ref\dotnet-consola.dll
